@@ -1,0 +1,2 @@
+# monty
+my first algorithm
